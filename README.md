@@ -1,5 +1,7 @@
 # Perps
 
+## Slides : https://www.canva.com/design/DAHJei7wkf8/Sjq5JtOsE_oygccj8yaQow/edit
+
 Perps?
 
 Because they allow:
